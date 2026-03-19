@@ -77,4 +77,4 @@ Run all cells in the notebook sequentially. The training will:
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_martix.png)
+![Confusion Matrix](confusion martix.png)
